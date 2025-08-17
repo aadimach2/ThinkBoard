@@ -45,4 +45,4 @@ connectDB().then(() => {
   app.listen(PORT, () => {
     console.log("Server started on PORT:", PORT);
   });
-});mongodb+srv://aadimach2:tmUgPW8Tu5sjClro@cluster0.efoghjm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+});
